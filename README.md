@@ -100,30 +100,3 @@ screenshots/
 ## Purpose
 
 This project was created as a school project to demonstrate the use of **Laravel, MongoDB, MVC architecture, authentication, and CRUD operations**.
-
-
-## System Screenshots
-
-### 1. Admin Login
-
-The login page allows the administrator to access the system.
-
-![Admin Login](screenshots/Screenshot_1.png)
-
-### 2. Admin Dashboard
-
-The dashboard displays the total number of products, available products, and out-of-stock products.
-
-![Admin Dashboard](screenshots/Screenshot_2.png)
-
-### 3. Product Management
-
-The Products page displays the products stored in the system. It also includes search, edit, and delete functions.
-
-![Product Management](screenshots/Screenshot_3.png)
-
-### 4. Add Product
-
-The Add Product page allows the administrator to enter product information such as name, description, price, category, stock, and status.
-
-![Add Product](screenshots/Screenshot_4.png)
